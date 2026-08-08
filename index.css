@@ -1,0 +1,31 @@
+body{
+    margin : 20px;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+.kazuha{
+    width: 150px;
+}
+.card{
+    width : 400px;
+    background :#8d99ae;   
+    display :flex;
+    justify-content : space-around;
+    margin : 0px auto;
+    color: #2b2839;  
+}
+.con{
+    padding : 5px;
+}
+.dot{
+     border : 1px dotted black;
+}
+.solid{
+     border : 20px solid #8d99ae;
+     border-bottom : 6px solid #2b2d42;
+}
+.sp{
+    text-align : center;
+}
+.name{
+    font-size : 16px;
+}
